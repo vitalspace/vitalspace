@@ -1,4 +1,7 @@
-# Hi there 👋. I'm Vital
+# Hi there 👋. I'm Vital.
+
+Welcome to my Page
+I'm Vital, Web Developer/Game Developer 
 
 <!--
 **vitalspace/vitalspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
