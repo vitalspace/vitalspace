@@ -6,12 +6,12 @@ I'm Vital, Web Developer/Game Developer.
 
 I create free software at [@bunland](https://github.com/Bunland), where I create cool tools for bun.js.
 
-# Bunland/WebApp
+# ⚡Bunland/WebApp
 Create webapps with [Bun.js](http://bun.sh) (New runtime of Javascript) and any Chromium Browser. 
 
 [Check it](https://github.com/Bunland/webapp)
 
-# Bunland/Vitaliz
+# ⚡Bunland/Vitaliz
 A small Http server made in [Golang](https://go.dev/). that allows to serve static files through [Bun.js](http://bun.sh) (The new javascript runtime).
 
 [Check it](https://github.com/Bunland/Vitaliz)
