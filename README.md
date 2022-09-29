@@ -1,6 +1,7 @@
 # Hi there 👋. I'm Vital.
 
-Welcome to my Page.
+Welcome to my Page!.
+
 I'm Vital, Web Developer/Game Developer.
 
 <!--
