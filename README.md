@@ -21,6 +21,8 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
 [Chek it](https://github.com/Bunland/Bun-Blockchain)
 
 
+<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" alt="drawing" width="200"/>
+
 <!--
 **vitalspace/vitalspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
