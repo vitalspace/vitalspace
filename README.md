@@ -26,6 +26,10 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalspace&layout=compact&theme=dark&langs_count=5&hide=css,scss,html,java,plpgsql,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B,kotlin,brightscript" height="130"/>  
 </p>
 
+<p align="center">
+<a href="https://github.com/Bunland/Vitaliz" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bunland&theme=dark&repo=Vitaliz" alt="go" height="145"/> </a>
+<a href="https://github.com/Bunland/webapp" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bunland&theme=dark&repo=webapp" alt="js" height="145"/> </a>
+</p>
 
 
 ### ⚡Technologies I use and love.
