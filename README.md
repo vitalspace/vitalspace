@@ -46,7 +46,6 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
           <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/puppeteer.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/rust.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/threejs.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/twilio.svg" width="24px" height="24px" />
           <img
