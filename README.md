@@ -25,8 +25,7 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
           <img src="https://github.com/get-icon/geticon/raw/master/icons/android-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/codecov.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/deno.svg" width="24px" height="24px" />
+          <img src="https://bun.sh/logo-square.png" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="24px" height="24px" />
