@@ -56,6 +56,7 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
           <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/webrtc.svg" width="24px" height="24px" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="24px" height="24px" />
         </p>
 
 <!--
