@@ -20,6 +20,14 @@ A small Http server made in [Golang](https://go.dev/). that allows to serve stat
 A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtime).
 [Chek it](https://github.com/Bunland/Bun-Blockchain)
 
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitalspace&show_icons=true&theme=dark&count_private=true&hide=stars&include_all_commits=true&custom_title=vitalspace" height="130">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=zeroidentidad&layout=compact&theme=dark&langs_count=5&hide=css,scss,html,java,plpgsql,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B,kotlin,brightscript](https://github-readme-stats.vercel.app/api/top-langs/?username=vitalspace&layout=compact&theme=dark&langs_count=5&hide=css,scss,html,java,plpgsql,objective-c,less,typescript,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,c,shell,batchfile,smarty,php,dockerfile,c%2B%2B,kotlin,brightscript)" height="130"/>  
+</p>
+
+
+
 ### ⚡Technologies I use and love.
   <p>
           <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" width="24px" height="24px" />
