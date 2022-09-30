@@ -33,7 +33,7 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
 
 
 ### ⚡Technologies I use and love.
-  <p>
+  <p align="center">
           <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="24px" height="24px" />
           <img src="https://bun.sh/logo-square.png" width="24px" height="24px" />
