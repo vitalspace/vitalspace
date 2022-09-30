@@ -21,9 +21,45 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
 [Chek it](https://github.com/Bunland/Bun-Blockchain)
 
 ### ⚡Technologies I use and love.
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" alt="drawing" width="50"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" alt="drawing" width="50"/>
-
+  <p>
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/android-icon.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/codecov.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/deno.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/google-icon.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/jenkins.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" width="24px" height="24px" />
+          <img
+            src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg"
+            width="24px"
+            height="24px"
+          />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/nginx.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/puppeteer.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/rust.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/threejs.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/twilio.svg" width="24px" height="24px" />
+          <img
+            src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"
+            width="24px"
+            height="24px"
+          />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/ubuntu.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" width="24px" height="24px" />
+          <img src="https://github.com/get-icon/geticon/raw/master/icons/webrtc.svg" width="24px" height="24px" />
+        </p>
 
 <!--
 **vitalspace/vitalspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
