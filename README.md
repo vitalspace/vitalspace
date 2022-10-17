@@ -25,7 +25,7 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
 
 <p align="center" width="50%>
   <a href="https://github.com/AVS1508">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitalspace&theme=dark&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bunland&theme=dark&show_icons=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalspace&theme=dark&layout=compact" />
   </a>
 </p>
