@@ -79,9 +79,7 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
         </p>
 
                                                                                                                      
-<p align="center">
   ![](https://komarev.com/ghpvc/?username=vitalspace&color=blueviolet)
-</p>                                                                                                                     
                                                                                                                      
 <!--
 **vitalspace/vitalspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
