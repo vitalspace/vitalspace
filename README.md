@@ -39,8 +39,6 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
                                                                       
-![](https://komarev.com/ghpvc/?username=vitalspace&color=blueviolet)
-
 ### ⚡Technologies I use and love.
   <p align="center">
           <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" width="24px" height="24px" />
@@ -80,6 +78,9 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
           <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="24px" height="24px" />
         </p>
 
+                                                                                                                     
+<p align="center">![](https://komarev.com/ghpvc/?username=vitalspace&color=blueviolet)</p>                                                                                                                     
+                                                                                                                     
 <!--
 **vitalspace/vitalspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
