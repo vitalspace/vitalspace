@@ -38,6 +38,8 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
 </p>
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
+                                                                      
+                                                                      ![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 
 ### ⚡Technologies I use and love.
   <p align="center">
