@@ -23,8 +23,6 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
-<img src="https://www3.animeflv.net/uploads/animes/covers/3750.jpg" />
-
 <p align="center" width="50%>
   <a href="https://github.com/AVS1508">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitalspace&theme=dark&show_icons=true" />
