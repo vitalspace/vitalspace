@@ -33,8 +33,8 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 
 <p align="center">
-<a href="https://github.com/Bunland/Vitaliz" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bunland&theme=dark&repo=Vitaliz" alt="go" height="145"/> </a>
-<a href="https://github.com/Bunland/webapp" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bunland&theme=dark&repo=webapp" alt="js" height="145"/> </a>
+<a href="https://github.com/Bunland/Vitaliz" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bunland&theme=dark&repo=Vitaliz" alt="go" height="120"/> </a>
+<a href="https://github.com/Bunland/webapp" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bunland&theme=dark&repo=webapp" alt="js" height="120"/> </a>
 </p>
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
