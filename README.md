@@ -25,6 +25,7 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
 
 <p align="center" >
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitalspace&theme=cobalt" height="180" />
+<hr style="height:3px;border-width:0;color:gray;background-color:gray">
   <a href="https://github.com/vitalspace">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitalspace&theme=dark&show_icons=true" height="180" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalspace&layout=compact&theme=dark&langs_count=10&hide=css,scss,html,java,plpgsql,objective-c,less,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,shell,batchfile,smarty,php,dockerfile,c%2B%2B,kotlin,brightscript" height="180"/> 
