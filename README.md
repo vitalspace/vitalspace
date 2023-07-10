@@ -44,7 +44,7 @@ A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtim
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
                                                                       
-### ⚡Technologies I use and love.
+### ⚡Technologies I use and love
   <p align="center">
           <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="24px" height="24px" />
