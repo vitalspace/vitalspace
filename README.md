@@ -16,7 +16,7 @@ A small Http server made in [Golang](https://go.dev/). that allows to serve stat
 
 [Check it](https://github.com/Bunland/Vitaliz)
 
-### ⚡Bunland/Blockchain
+### ⚡Bunland/Blockchain.
 A small blockchain written in [Bun.js](http://bun.sh) (The new Javascript runtime).
 
 [Chek it](https://github.com/Bunland/Bun-Blockchain)
