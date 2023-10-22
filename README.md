@@ -1,4 +1,7 @@
 # Hi there 👋. I'm Vital.
+<p align="center" >
+  ![2370104d-3aab-4d98-9a31-bb5300c9b7a6](https://github.com/vitalspace/vitalspace/assets/29004070/9ff0e00b-8bfc-4d24-b173-697791283b5c)
+</p>
 
 Welcome to my Page!.
 
