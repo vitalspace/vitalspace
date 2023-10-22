@@ -1,6 +1,6 @@
 # Hi there 👋. I'm Vital.
 <p align="center" >
-  <img align="center" src="https://github.com/vitalspace/vitalspace/assets/29004070/9ff0e00b-8bfc-4d24-b173-697791283b5c"/>
+  <img align="center" width="250" src="https://github.com/vitalspace/vitalspace/assets/29004070/9ff0e00b-8bfc-4d24-b173-697791283b5c"/>
 </p>
 
 Welcome to my Page!.
