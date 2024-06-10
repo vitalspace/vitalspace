@@ -3,6 +3,9 @@
   <img align="center" width="250" src="https://github.com/vitalspace/vitalspace/assets/29004070/9ff0e00b-8bfc-4d24-b173-697791283b5c"/>
 </p>
 
+<figure><embed src="https://wakatime.com/share/@018bcf9d-5760-4fc6-8ecf-e02b0a4e335b/c50f554a-7579-4538-8cc1-a65e7d47ef9a.svg"></embed></figure>
+
+
 Welcome to my Page!.
 
 I'm Vital, Web Developer/Game Developer.
