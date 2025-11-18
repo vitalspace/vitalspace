@@ -109,7 +109,7 @@ I'm **Adrian** (aka **Vital**), a passionate **Blockchain Developer** and **Full
 
 ## 🎓 Specializations
 
-### DeFi & Finance
+### DeFi
 - **Lending Protocols**: Capital efficiency, risk management
 - **Trading Platforms**: Order execution, liquidity provision
 - **Privacy Solutions**: Fully Homomorphic Encryption (FHE), mixing services
