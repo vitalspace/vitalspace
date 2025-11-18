@@ -87,17 +87,7 @@ I'm **Adrian** (aka **Vital**), a passionate **Blockchain Developer** and **Full
 </div>
 
 <div align="center">
-### Most Used Languages
-
-| Language | Percentage | Color |
-|----------|-----------|-------|
-| Zig | 43.55% | 🟠 Orange |
-| TypeScript | 21.97% | 🔵 Blue |
-| C | 16.61% | ⚫ Gray |
-| Go | 12.16% | 🔷 Cyan |
-| Solidity | 4.44% | 🟤 Brown |
-| OpenEdge ABL | 1.05% | 🟢 Green |
-| CMake | 0.21% | 🔴 Red |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalspace&layout=compact&theme=dark&langs_count=10&hide=Svelte,Papyrus,Astro,EJS,javaScript,css,scss,html,java,plpgsql,objective-c,less,ruby,starlark,vue,tsql,assembly,hack,python,makefile,perl,shell,batchfile,smarty,php,dockerfile,c%2B%2B,kotlin,brightscript" height="180"/>
 
 ---
 
